@@ -6,6 +6,7 @@ public class WaterBottle {
     material
     color
     capacity
+    price
      */
 
     //behaviour
