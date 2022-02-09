@@ -1,4 +1,4 @@
-package com.LearnObjectAndClass.Day1;
+package com.learnoop.Day1;
 
 public class Bicycle {
     /*
@@ -9,7 +9,7 @@ public class Bicycle {
     brand
     type
 
-    Behaviours
+    Behaviours:
     ride
     brake
     turn

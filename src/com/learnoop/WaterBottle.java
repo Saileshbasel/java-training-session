@@ -1,4 +1,4 @@
-package com.LearnObjectAndClass;
+package com.learnoop;
 
 public class WaterBottle {
 
