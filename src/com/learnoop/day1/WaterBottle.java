@@ -1,4 +1,4 @@
-package com.learnoop;
+package com.learnoop.day1;
 
 public class WaterBottle {
 

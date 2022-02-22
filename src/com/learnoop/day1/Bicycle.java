@@ -1,4 +1,4 @@
-package com.learnoop.Day1;
+package com.learnoop.day1;
 
 public class Bicycle {
     /*
